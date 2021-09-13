@@ -1,0 +1,26 @@
+--[[
+	--// VERSION LOGS \\--
+	
+		--// v1.0
+			- First public release of Argead Tech
+			
+		--// v1.1
+			- Minor bug fixes
+			- Stamina bar turns red when player is exhausted
+			- Patched some animation bugs
+			
+		--// v1.2
+			- Added a check that validates damage, prevents any potential hitbox exploits
+			
+		--// v1.21
+			- Removed the damage validator, it was heavily unreliable
+			- Slightly patched it to be an alternative
+			
+		--// v1.3
+			- Updated the animations to include the aesthetic poses as seen at the Battlegrounds
+			- Shields can now be placed on your back using the X key
+			- Dory and Kopis have their own poses using the Z key
+			- The shield script has been fixed to accomodate non-round shields, rotating the shield correctly when up
+			- Added in two shields, a Greek and Roman shield containing default shield models
+			- Weapon damages has been altered. Dory now does 22 damage, Kopis does 35.
+--]]
