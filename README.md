@@ -1,6 +1,6 @@
 # argeadCombatTechPublic
 
-  -- ARGEAD TECH - PUBLIC RELEASE
+ARGEAD TECH - PUBLIC RELEASE
 	
 	
 	--// DESCRIPTION \\--
@@ -55,5 +55,4 @@
 		
 		
 		**--// ARGEAD TECH SHOULD BE FUNCTIONAL IF EVERY STEP ABOVE WAS FOLLOWED \\--**
---]]
 	
