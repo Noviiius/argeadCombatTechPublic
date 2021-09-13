@@ -1,4 +1,4 @@
---[[
+
 	--// VERSION LOGS \\--
 	
 		--// v1.0
@@ -23,4 +23,4 @@
 			- The shield script has been fixed to accomodate non-round shields, rotating the shield correctly when up
 			- Added in two shields, a Greek and Roman shield containing default shield models
 			- Weapon damages has been altered. Dory now does 22 damage, Kopis does 35.
---]]
+
